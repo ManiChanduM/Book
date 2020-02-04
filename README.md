@@ -4,7 +4,7 @@
 
 | S.No |               Topics               |
 |------|:----------------------------------:|
-| 1    |    [Angular](/Angular/index.md)    |
+| 1    |    [Angular](/Angular/README.md)    |
 | 2    |        [ES6](/ES6/index.md)        |
 | 3    | [JavaScript](/JavaScript/index.md) |
 | 4    |        [PWA](/PWA/index.md)        |
