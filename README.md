@@ -2,10 +2,10 @@
 
 ## Table of Content
 
-| S.No |               Topics               |
-|------|:----------------------------------:|
-| 1    |    [Angular](/Angular/README.md)    |
-| 2    |        [ES6](/ES6/index.md)        |
-| 3    | [JavaScript](/JavaScript/index.md) |
-| 4    |        [PWA](/PWA/index.md)        |
-| 5    | [TypeScript](/TypeScript/index.md) |
+| Topics                             |
+|------------------------------------|
+| [Angular](/Angular/README.md)      |
+| [ES6](/ES6/index.md)               |
+| [JavaScript](/JavaScript/index.md) |
+| [PWA](/PWA/index.md)               |
+| [TypeScript](/TypeScript/index.md) |
