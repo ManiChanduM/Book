@@ -1,6 +1,3 @@
----
----
-
 # Book
 
 ## Table of Content
