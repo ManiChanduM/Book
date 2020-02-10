@@ -50,8 +50,10 @@ pre {
     display: none;
   }
   .inner {
-    width: 94%;
+    box-sizing: border-box;
     margin: 0 auto;
+    padding: 0px 1rem;
+    width: 94%;
   }
   ul li {
     margin-left: 10px;
