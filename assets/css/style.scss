@@ -1,4 +1,24 @@
+--- 
 ---
----
+@import "{{ site.theme }}";
 
-@import "jekyll-theme-tactile";
+/* LAYOUT STYLES */
+body {
+  color: #616161;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400;
+}
+
+header h1 {
+  font-family: inherit;
+  font-weight: 500;
+}
+
+.inner {
+  width: 54rem;
+}
+
+code,
+pre {
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
