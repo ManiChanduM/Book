@@ -1,5 +1,5 @@
-@import "rouge-base16-dark";
-@import url('https://fonts.googleapis.com/css?family=Chivo:900');
+// @import "rouge-base16-dark";
+// @import url('https://fonts.googleapis.com/css?family=Chivo:900');
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
@@ -51,10 +51,12 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-family: 'Helvetica Neue', Helvetica, Arial, serif;
+  // Added color, font-family, font-weight
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   font-size: 1em;
+  font-weight: 400;
   line-height: 1.5;
-  color: #6d6d6d;
+  color: #616161;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
   background: #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
 }
@@ -72,8 +74,10 @@ header {
 }
 
 header h1 {
-  font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
-  font-size: 48px; font-weight: 900;
+  // Changed font-family, font-weight
+  // font-family: 'Chivo', 'Helvetica Neue', Helvetica, Arial, serif;
+  font-size: 48px;
+  font-weight: 500;
   line-height: 1.2;
   color: #303030;
   letter-spacing: -1px;
@@ -93,7 +97,8 @@ header h2 {
 }
 
 .inner {
-  width: 620px;
+  // Changed with rem unit
+  width: 54rem;
   margin: 0 auto;
 }
 
@@ -170,7 +175,7 @@ a.button span {
 
 code, pre {
   margin-bottom: 30px;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
+  font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   font-size: 14px;
   color: #222;
 }
