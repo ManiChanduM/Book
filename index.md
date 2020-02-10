@@ -1,6 +1,8 @@
 # Book
 
-## Topics
+## A Concept Reference
+
+### Topics
 
 * [Angular](/Angular/index.md)
 * [ES6](/ES6/index.md)
