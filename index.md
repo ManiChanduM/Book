@@ -1,6 +1,4 @@
-# Book
-
-## Table of Content
+# Table of Content
 
 | Topics                             |
 |------------------------------------|
