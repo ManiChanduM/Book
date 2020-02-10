@@ -33,6 +33,14 @@ pre {
   font-size: 16px;
 }
 
+ul li {
+    padding-left: 4px
+}
+
+ol li {
+    padding-left: 4px
+}
+
 // Extra small devices (portrait phones, less than 576px)
 // No media query for `xs` since this is the default in Bootstrap
 
@@ -70,6 +78,13 @@ pre {
     margin: 0 auto;
     padding: 0px 12px;
     width: 94%;
+  }
+  ul li {
+    margin-left: 20px;
+    padding-left: 4px;
+  }
+  ol li {
+    margin-left: 20px;
   }
 }
 
