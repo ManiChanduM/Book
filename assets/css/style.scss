@@ -27,10 +27,6 @@ header h1 {
   font-weight: 500;
 }
 
-.inner {
-  width: 54rem;
-}
-
 code,
 pre {
   font-family: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -78,7 +74,11 @@ pre {
 }
 
 // Large devices (desktops, 992px and up)
-@media (min-width: 992px) {}
+@media (min-width: 992px) {
+  .inner {
+    width: 54rem;
+  }
+}
 
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {}
