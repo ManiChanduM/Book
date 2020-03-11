@@ -4,7 +4,7 @@
 
 | S.No |                                Topics                                |
 |------|:--------------------------------------------------------------------:|
-| 1    |              [Getting Started](./1.Getting-Started.md)               |
+| 1    |              [Getting Started](/1.Getting-Started.md)               |
 | 2    |              [Language Basics](./2.Language-Basics.md)               |
 | 3    |               [Types & Scope](./3.Types-and-Scope.md)                |
 | 4    |                       [Arrays](./4.Arrays.md)                        |
