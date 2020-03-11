@@ -4,4 +4,4 @@
 
 | S.No |                  Topics                  |
 |------|:----------------------------------------:|
-| 1    | [Getting Started](/1.Getting-Started.md) |
+| 1    | [Getting Started](./1.Getting-Started.md) |
